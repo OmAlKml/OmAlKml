@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmarAliKml
+- 👋 Hi, I’m Omar Ali.
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Java, Dart, Python, OOP, Git, design patterms, and more.
 - 💞️ I’m looking to collaborate on professional projects
