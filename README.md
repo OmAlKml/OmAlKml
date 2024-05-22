@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Java, Dart, Python, OOP, Git, design patterms, and more.
 - 💞️ I’m looking to collaborate on professional projects
-- 📫 How to reach me? my email is omar.ali.kml@gmail.com
+- 📫 How to reach me? my LikedIn https://www.linkedin.com/in/omar-ali-00b13630b/
 
 <!---
 OmarAliKml/OmarAliKml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
