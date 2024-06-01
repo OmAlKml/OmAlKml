@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Ali.
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Java, Dart, Python, flutter, OOP, Git, design patterms, and more.
+- 🌱 I’m currently learning Java, Dart, Python, Flutter, OOP, Git, design patterms, and more.
 - 💞️ I’m looking to collaborate on professional projects
 - 📫 How to reach me? my [LinkedIn](https://www.linkedin.com/in/omar-ali-00b13630b/)
 
