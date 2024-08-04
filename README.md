@@ -2,7 +2,6 @@
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Java, Dart, Python, Flutter, OOP, Git, design patterms, and more.
 - 💞️ I’m looking to collaborate on professional projects
-- 📫 How to reach me? my [LinkedIn]([https://x.com/OmAlKml])
 
 <!---
 OmarAliKml/OmarAliKml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
