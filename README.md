@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Omar Ali.
+- [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://x.com/OmAlKml)
+- [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=61560691603292)
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Java, Dart, Python, Flutter, OOP, Git, design patterms, and more.
 - 💞️ I’m looking to collaborate on professional projects
