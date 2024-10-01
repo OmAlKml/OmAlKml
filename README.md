@@ -1,5 +1,5 @@
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://x.com/OmAlKml)
-[![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=61560691603292)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=Linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/omar-ali-54b136330/)
 
 👋 Hi, I’m Omar Ali.
 
