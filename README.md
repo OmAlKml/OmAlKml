@@ -2,6 +2,7 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://x.com/OmAlKml)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=Linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/omar-ali-54b136330/)
+[![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=61566631233548)
 
 ## About Me
 
