@@ -11,14 +11,14 @@ Hello! I'm Omar Ali, a passionate software engineer dedicated to creating innova
 ### My Interests
 - 👀 **Software Engineering**: Building robust applications that solve real-world problems.
 - 🌱 **Currently Learning**:
-  - ☕ **Java**: Diving into object-oriented programming and application development.
-  - 🍃 **Dart & Flutter**: Crafting beautiful, cross-platform mobile applications.
-  - 🐍 **Python**: Exploring data analysis and machine learning techniques.
-  - 📐 **Object-Oriented Programming (OOP)**: Enhancing my understanding of software design principles.
-  - 🔧 **Git**: Mastering version control for effective team collaboration.
-  - 📚 **Design Patterns**: Learning best practices for creating maintainable and scalable code.
+  - **Java**: Diving into object-oriented programming and application development.
+  - **Dart & Flutter**: Crafting beautiful, cross-platform mobile applications.
+  - **Python**: Exploring data analysis and machine learning techniques.
+  - **Object-Oriented Programming (OOP)**: Enhancing my understanding of software design principles.
+  - **Git**: Mastering version control for effective team collaboration.
+  - **Design Patterns**: Learning best practices for creating maintainable and scalable code.
 
-💞 I'm eager to collaborate on projects that challenge my skills and contribute to meaningful work. If you have an interesting project or idea, I would love to hear about it!
+💞️ I'm eager to collaborate on projects that challenge my skills and contribute to meaningful work. If you have an interesting project or idea, I would love to hear about it!
 
 ## Connect With Me
 - 💼 **LinkedIn**: [Omar Ali](https://www.linkedin.com/in/omar-ali-54b136330/)
