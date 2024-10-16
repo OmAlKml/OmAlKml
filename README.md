@@ -6,16 +6,16 @@
 
 ## About Me
 
-Hello! I'm Omar Ali, a passionate software engineer dedicated to creating innovative solutions and enhancing user experiences through technology. I thrive in collaborative environments and embrace challenges that require creative problem-solving.
+Hello! I'm Omar Ali, a passionate Flutter developer dedicated to creating innovative mobile applications that enhance user experiences. I thrive in collaborative environments and embrace challenges that require creative problem-solving.
 
 ### My Interests
-- 👀 **Software Engineering**: Building robust applications that solve real-world problems.
+- 👀 **Flutter Development**: Crafting beautiful, cross-platform mobile applications with Flutter.
 - 🌱 **Currently Learning**:
-  - **Java**: Diving into object-oriented programming and application development.
-  - **Dart & Flutter**: Crafting beautiful, cross-platform mobile applications.
-  - **Python**: Exploring data analysis and machine learning techniques.
-  - **Object-Oriented Programming (OOP)**: Enhancing my understanding of software design principles.
-  - **Git**: Mastering version control for effective team collaboration.
+  - **Dart**: Mastering the language for building high-quality Flutter apps.
+  - **Java**: Exploring object-oriented programming principles.
+  - **Python**: Diving into data analysis and machine learning techniques.
+  - **Object-Oriented Programming (OOP)**: Strengthening my understanding of software design principles.
+  - **Git**: Improving version control skills for effective team collaboration.
   - **Design Patterns**: Learning best practices for creating maintainable and scalable code.
 
 💞️ I'm eager to collaborate on projects that challenge my skills and contribute to meaningful work. If you have an interesting project or idea, I would love to hear about it!
