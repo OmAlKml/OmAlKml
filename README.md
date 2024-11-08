@@ -8,7 +8,7 @@
 
 Hello! I'm Omar Ali, a passionate Flutter developer dedicated to creating innovative mobile applications that enhance user experiences. I thrive in collaborative environments and embrace challenges that require creative problem-solving.
 
-### My Interests
+### My Interests 
 
 - 🌱 **Currently Learning**:
   - **Dart**: Mastering the language for building high-quality Flutter apps.
