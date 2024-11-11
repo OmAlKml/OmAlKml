@@ -31,13 +31,13 @@ Hello! I'm Omar Ali, a passionate Flutter developer dedicated to creating innova
 Feel free to reach out if you're interested in collaboration, have questions, or just want to connect! I'm always excited to meet new people in the tech community.
 
 <hr/>
-<a href="https://github.com/OmAlKml/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmAlKml&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false" />
+<a href="https://github.com/OmarAliKml/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarAliKml&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false" />
 </a>
 <br>
 <br>
-<a href="https://github.com/OmAlKml/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmAlKml&layout=compact&theme=radical&hide_border=false" />
+<a href="https://github.com/OmarAliKml/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAliKml&layout=compact&theme=radical&hide_border=false" />
 </a>
 
 <!---
