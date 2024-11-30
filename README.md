@@ -4,7 +4,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=Linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/omar-ali-54b136330/)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=facebook&logoColor=white&style=for-the-badge&message=Follow)](https://www.facebook.com/profile.php?id=61566631233548)
 
-## About Me 
+## About Me  
 
 Hello! I'm Omar Ali, a passionate Flutter developer dedicated to creating innovative mobile applications that enhance user experiences. I thrive in collaborative environments and embrace challenges that require creative problem-solving.
 
