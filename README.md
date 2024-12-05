@@ -36,9 +36,7 @@ Feel free to reach out if you're interested in collaboration, have questions, or
 </a>
 <br>
 <br>
-<a href="https://github.com/OmarAliKml/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAliKml&layout=compact&theme=radical&hide_border=false" />
-</a>
+
 
 <!---
 OmarAliKml/OmarAliKml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
